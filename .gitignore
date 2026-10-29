@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+out/
+out2/
+out_states/
+out_test/
+*.zip
+.DS_Store
+.ipynb_checkpoints/
+
+# exe build output
+dist/
+build/
+*.spec
+.venv_build/
+.venv_run/
+CAQM_Windows.zip
